@@ -1,0 +1,184 @@
+month,hospital,department,role_group,encounters,productive_hours,nonproductive_hours,overtime_hours,agency_hours,budgeted_fte,worked_fte,productivity_target
+2026-01,University,Emergency Dept,RN,1626,1653,155,140,109,13.0,12.1,1.21
+2026-01,University,Emergency Dept,Tech,1989,1081,64,124,38,7.7,8.1,1.43
+2026-01,University,Emergency Dept,Clerical,1999,785,141,125,83,14.9,15.7,1.27
+2026-01,University,Med Surg,RN,1782,829,55,19,24,16.6,17.2,1.37
+2026-01,University,Med Surg,Tech,1368,1602,90,142,29,13.7,13.9,1.3
+2026-01,University,Med Surg,Clerical,1636,1269,144,151,119,16.1,17.1,1.09
+2026-01,University,ICU,RN,1170,1750,113,17,8,12.8,11.7,0.96
+2026-01,University,ICU,Tech,1295,1491,57,14,108,14.2,13.4,1.46
+2026-01,University,ICU,Clerical,807,1662,136,111,53,6.9,7.6,1.37
+2026-01,University,Cardiology Clinic,RN,526,1389,62,89,42,6.2,6.1,1.45
+2026-01,University,Cardiology Clinic,Tech,387,1204,65,12,7,11.6,11.8,1.31
+2026-01,University,Cardiology Clinic,Clerical,442,1616,170,58,93,15.2,15.2,1.13
+2026-01,University,Orthopedics Clinic,RN,654,1561,94,10,34,16.4,18.3,1.26
+2026-01,University,Orthopedics Clinic,Tech,270,1131,87,110,109,13.2,13.7,0.93
+2026-01,University,Orthopedics Clinic,Clerical,399,1136,153,76,1,15.3,15.0,1.08
+2026-01,Community,Emergency Dept,RN,850,852,63,63,74,13.6,12.2,1.12
+2026-01,Community,Emergency Dept,Tech,1974,1628,72,160,61,16.0,15.0,1.13
+2026-01,Community,Emergency Dept,Clerical,1984,1015,119,68,104,13.3,14.3,1.0
+2026-01,Community,Med Surg,RN,1988,1102,139,133,77,6.9,5.6,0.97
+2026-01,Community,Med Surg,Tech,1749,1222,101,110,32,11.0,12.7,1.19
+2026-01,Community,Med Surg,Clerical,1765,1059,57,42,29,11.8,12.6,1.27
+2026-01,Community,ICU,RN,851,1273,94,62,95,6.2,5.6,1.17
+2026-01,Community,ICU,Tech,823,795,85,82,47,12.4,14.3,0.96
+2026-01,Community,ICU,Clerical,983,1622,124,178,93,14.3,14.8,0.98
+2026-01,Community,Cardiology Clinic,RN,285,736,161,101,89,9.7,8.3,1.26
+2026-01,Community,Cardiology Clinic,Tech,326,1687,57,89,40,7.6,6.4,1.17
+2026-01,Community,Cardiology Clinic,Clerical,626,791,73,97,45,7.0,7.2,0.95
+2026-01,Community,Orthopedics Clinic,RN,677,761,167,156,1,13.5,13.3,1.25
+2026-01,Community,Orthopedics Clinic,Tech,873,847,60,33,81,7.4,6.8,1.15
+2026-01,Community,Orthopedics Clinic,Clerical,588,1495,157,122,59,16.1,14.9,1.35
+2026-01,North,Emergency Dept,RN,761,1335,62,133,2,8.8,9.7,1.2
+2026-01,North,Emergency Dept,Tech,1958,1695,105,12,47,9.6,10.5,1.02
+2026-01,North,Emergency Dept,Clerical,1047,1401,153,137,114,8.9,8.8,1.05
+2026-01,North,Med Surg,RN,1998,1582,91,64,49,8.6,10.3,1.03
+2026-01,North,Med Surg,Tech,975,1716,129,20,91,6.8,8.7,1.39
+2026-01,North,Med Surg,Clerical,931,1622,160,80,118,8.6,8.5,1.28
+2026-01,North,ICU,RN,1711,1345,155,92,9,15.9,15.4,1.26
+2026-01,North,ICU,Tech,2089,1275,130,89,83,15.5,14.1,0.98
+2026-01,North,ICU,Clerical,1631,1088,46,78,30,15.4,16.7,1.49
+2026-01,North,Cardiology Clinic,RN,368,1614,67,171,68,13.9,15.2,1.48
+2026-01,North,Cardiology Clinic,Tech,452,1108,161,75,22,14.6,15.7,1.22
+2026-01,North,Cardiology Clinic,Clerical,287,1066,97,79,99,10.1,11.0,1.21
+2026-01,North,Orthopedics Clinic,RN,879,1026,140,67,11,10.9,12.5,1.13
+2026-01,North,Orthopedics Clinic,Tech,711,1628,90,170,113,16.9,16.7,1.24
+2026-01,North,Orthopedics Clinic,Clerical,764,1402,158,93,83,17.8,16.6,1.42
+2026-01,South,Emergency Dept,RN,2014,952,94,72,115,10.7,9.5,1.09
+2026-01,South,Emergency Dept,Tech,1356,1236,44,99,64,7.0,7.0,1.23
+2026-01,South,Emergency Dept,Clerical,1263,1698,47,65,103,16.4,16.4,0.92
+2026-01,South,Med Surg,RN,1791,1386,75,130,19,18.0,19.7,1.21
+2026-01,South,Med Surg,Tech,2088,1601,166,158,88,7.0,6.3,1.22
+2026-01,South,Med Surg,Clerical,1294,1036,173,141,107,16.9,16.3,1.3
+2026-01,South,ICU,RN,1948,1126,117,46,69,12.3,12.8,1.02
+2026-01,South,ICU,Tech,1797,934,168,11,77,10.5,10.9,0.93
+2026-01,South,ICU,Clerical,1520,949,165,33,88,8.0,9.8,1.18
+2026-01,South,Cardiology Clinic,RN,663,1251,103,131,63,7.5,7.5,1.39
+2026-01,South,Cardiology Clinic,Tech,737,1775,121,37,24,11.0,9.6,1.06
+2026-01,South,Cardiology Clinic,Clerical,273,772,89,49,29,6.1,5.6,1.33
+2026-01,South,Orthopedics Clinic,RN,500,1721,66,137,93,13.0,14.5,1.27
+2026-01,South,Orthopedics Clinic,Tech,452,1786,151,15,48,13.6,15.0,1.27
+2026-01,South,Orthopedics Clinic,Clerical,801,1118,176,173,27,12.4,13.9,1.27
+2026-02,University,Emergency Dept,RN,979,1176,128,56,40,13.2,14.8,1.02
+2026-02,University,Emergency Dept,Tech,1098,898,74,71,16,14.7,14.1,0.96
+2026-02,University,Emergency Dept,Clerical,1563,958,91,113,80,14.2,12.8,1.02
+2026-02,University,Med Surg,RN,2097,1432,132,39,90,12.1,13.3,1.2
+2026-02,University,Med Surg,Tech,2104,1087,58,133,13,6.3,7.5,1.27
+2026-02,University,Med Surg,Clerical,1864,1685,77,58,23,7.4,6.5,0.99
+2026-02,University,ICU,RN,1279,895,55,44,87,11.5,12.7,1.1
+2026-02,University,ICU,Tech,1656,1573,171,100,55,8.5,8.3,1.28
+2026-02,University,ICU,Clerical,783,1110,86,114,58,10.3,10.1,1.45
+2026-02,University,Cardiology Clinic,RN,869,1038,64,141,101,6.2,7.8,1.38
+2026-02,University,Cardiology Clinic,Tech,894,1528,88,139,74,17.8,19.1,1.05
+2026-02,University,Cardiology Clinic,Clerical,369,1027,143,44,114,10.0,10.4,1.12
+2026-02,University,Orthopedics Clinic,RN,692,1071,143,62,92,8.2,9.5,1.08
+2026-02,University,Orthopedics Clinic,Tech,353,721,131,173,115,13.5,12.8,1.47
+2026-02,University,Orthopedics Clinic,Clerical,556,1391,95,178,51,12.8,13.2,1.13
+2026-02,Community,Emergency Dept,RN,1719,1136,70,111,73,6.3,7.0,1.34
+2026-02,Community,Emergency Dept,Tech,1225,1608,142,139,6,15.1,15.9,0.91
+2026-02,Community,Emergency Dept,Clerical,1229,1213,110,97,70,12.5,12.5,1.21
+2026-02,Community,Med Surg,RN,904,1610,59,150,76,14.0,15.8,1.13
+2026-02,Community,Med Surg,Tech,1027,1490,160,53,109,11.9,12.5,0.94
+2026-02,Community,Med Surg,Clerical,1712,1561,112,144,51,13.2,13.0,1.07
+2026-02,Community,ICU,RN,2041,1252,112,179,91,15.0,13.6,1.36
+2026-02,Community,ICU,Tech,1899,787,80,114,96,14.2,12.9,1.09
+2026-02,Community,ICU,Clerical,1514,802,121,28,102,16.9,16.9,1.19
+2026-02,Community,Cardiology Clinic,RN,499,793,173,35,119,15.7,17.4,0.99
+2026-02,Community,Cardiology Clinic,Tech,501,935,52,169,53,11.5,10.7,0.93
+2026-02,Community,Cardiology Clinic,Clerical,790,1016,71,103,56,7.7,7.7,1.26
+2026-02,Community,Orthopedics Clinic,RN,846,1559,133,145,104,18.0,19.8,1.34
+2026-02,Community,Orthopedics Clinic,Tech,494,1685,69,138,114,9.7,10.0,1.41
+2026-02,Community,Orthopedics Clinic,Clerical,531,1256,88,172,35,15.0,14.2,1.05
+2026-02,North,Emergency Dept,RN,2037,1101,50,170,7,6.1,5.5,0.92
+2026-02,North,Emergency Dept,Tech,777,909,96,148,35,6.9,5.7,1.31
+2026-02,North,Emergency Dept,Clerical,1827,1180,135,133,61,10.2,9.9,1.2
+2026-02,North,Med Surg,RN,973,852,70,124,103,15.9,17.3,1.36
+2026-02,North,Med Surg,Tech,1610,1569,106,109,103,7.8,6.8,1.4
+2026-02,North,Med Surg,Clerical,1921,1366,114,150,97,15.0,16.7,1.16
+2026-02,North,ICU,RN,1456,898,158,92,10,12.5,12.5,1.24
+2026-02,North,ICU,Tech,2103,1649,116,12,9,9.7,11.4,1.26
+2026-02,North,ICU,Clerical,2123,1322,166,93,36,16.6,15.9,1.29
+2026-02,North,Cardiology Clinic,RN,584,1450,70,92,90,11.3,11.9,1.44
+2026-02,North,Cardiology Clinic,Tech,535,1597,175,88,58,9.8,9.7,1.46
+2026-02,North,Cardiology Clinic,Clerical,778,1208,61,102,106,10.4,10.2,1.14
+2026-02,North,Orthopedics Clinic,RN,646,1099,134,109,69,7.9,8.5,1.01
+2026-02,North,Orthopedics Clinic,Tech,341,1630,112,15,28,12.2,12.6,1.24
+2026-02,North,Orthopedics Clinic,Clerical,272,1565,56,158,69,9.7,10.1,1.1
+2026-02,South,Emergency Dept,RN,1260,915,120,31,3,13.6,12.6,1.35
+2026-02,South,Emergency Dept,Tech,2029,1564,102,66,62,15.2,15.5,1.36
+2026-02,South,Emergency Dept,Clerical,1507,1417,126,95,86,7.6,7.8,1.38
+2026-02,South,Med Surg,RN,848,794,145,180,44,16.2,17.5,1.4
+2026-02,South,Med Surg,Tech,1651,749,174,102,90,6.1,5.0,1.45
+2026-02,South,Med Surg,Clerical,999,1203,81,172,48,14.2,13.8,1.13
+2026-02,South,ICU,RN,1783,1298,110,25,60,9.7,8.6,1.29
+2026-02,South,ICU,Tech,1067,827,157,14,74,11.8,13.1,1.09
+2026-02,South,ICU,Clerical,1104,1077,131,65,75,8.8,9.8,1.26
+2026-02,South,Cardiology Clinic,RN,479,1605,87,81,51,8.1,9.3,1.09
+2026-02,South,Cardiology Clinic,Tech,811,1681,106,134,113,10.8,12.6,1.3
+2026-02,South,Cardiology Clinic,Clerical,344,1688,96,112,6,8.6,7.6,1.38
+2026-02,South,Orthopedics Clinic,RN,790,1756,110,24,84,17.1,18.7,1.42
+2026-02,South,Orthopedics Clinic,Tech,630,1621,103,117,77,16.5,16.5,1.36
+2026-02,South,Orthopedics Clinic,Clerical,398,1231,172,43,81,14.9,15.6,1.21
+2026-03,University,Emergency Dept,RN,808,1008,85,10,26,15.9,17.4,1.39
+2026-03,University,Emergency Dept,Tech,868,1420,109,167,91,12.3,13.9,1.32
+2026-03,University,Emergency Dept,Clerical,869,1736,117,14,101,8.3,7.5,1.31
+2026-03,University,Med Surg,RN,1601,1126,49,149,52,12.3,11.4,1.4
+2026-03,University,Med Surg,Tech,1337,1347,119,113,9,12.7,14.7,1.3
+2026-03,University,Med Surg,Clerical,837,1436,59,45,13,14.0,14.9,1.35
+2026-03,University,ICU,RN,949,1611,43,106,91,14.5,13.8,1.24
+2026-03,University,ICU,Tech,1638,721,92,167,19,9.5,9.3,1.22
+2026-03,University,ICU,Clerical,1310,1390,140,152,85,7.0,6.2,1.13
+2026-03,University,Cardiology Clinic,RN,362,1374,119,80,72,11.6,12.3,1.17
+2026-03,University,Cardiology Clinic,Tech,641,888,66,46,79,7.1,8.0,1.32
+2026-03,University,Cardiology Clinic,Clerical,434,1095,142,19,107,11.6,12.6,0.96
+2026-03,University,Orthopedics Clinic,RN,283,1021,71,121,52,15.3,15.0,1.39
+2026-03,University,Orthopedics Clinic,Tech,773,984,92,47,105,14.3,14.5,1.45
+2026-03,University,Orthopedics Clinic,Clerical,887,731,142,166,89,9.8,11.1,1.05
+2026-03,Community,Emergency Dept,RN,1946,1785,44,76,42,8.3,7.9,1.16
+2026-03,Community,Emergency Dept,Tech,1841,1473,92,140,42,15.5,16.9,1.27
+2026-03,Community,Emergency Dept,Clerical,1024,1219,177,86,70,8.8,9.4,1.21
+2026-03,Community,Med Surg,RN,1875,1105,172,60,72,17.3,18.0,1.02
+2026-03,Community,Med Surg,Tech,870,979,102,132,73,11.0,10.7,0.96
+2026-03,Community,Med Surg,Clerical,1439,1245,158,41,57,17.7,16.7,1.44
+2026-03,Community,ICU,RN,1812,830,107,53,116,14.9,16.5,1.1
+2026-03,Community,ICU,Tech,998,951,40,83,87,16.8,16.1,1.24
+2026-03,Community,ICU,Clerical,1039,1080,180,29,58,6.4,5.5,1.49
+2026-03,Community,Cardiology Clinic,RN,391,1330,137,167,75,13.7,14.9,1.0
+2026-03,Community,Cardiology Clinic,Tech,671,1658,48,46,67,10.6,11.1,1.0
+2026-03,Community,Cardiology Clinic,Clerical,782,969,107,72,72,17.2,15.9,1.37
+2026-03,Community,Orthopedics Clinic,RN,398,1525,167,163,13,11.6,11.5,1.27
+2026-03,Community,Orthopedics Clinic,Tech,828,1533,112,134,113,17.9,19.3,1.41
+2026-03,Community,Orthopedics Clinic,Clerical,668,1588,70,154,14,16.9,17.2,1.22
+2026-03,North,Emergency Dept,RN,1585,1560,46,92,116,6.7,7.7,1.44
+2026-03,North,Emergency Dept,Tech,2199,1471,122,88,112,13.1,11.8,0.97
+2026-03,North,Emergency Dept,Clerical,1615,1196,168,111,6,11.7,10.6,1.45
+2026-03,North,Med Surg,RN,1816,1327,141,70,112,6.8,8.5,1.48
+2026-03,North,Med Surg,Tech,2063,1455,179,117,72,15.7,15.0,1.35
+2026-03,North,Med Surg,Clerical,1860,951,58,35,66,15.5,14.4,1.22
+2026-03,North,ICU,RN,1628,701,115,72,93,9.6,9.2,0.94
+2026-03,North,ICU,Tech,1621,1786,141,46,45,14.3,13.6,1.08
+2026-03,North,ICU,Clerical,1631,1342,118,93,63,7.7,8.9,1.37
+2026-03,North,Cardiology Clinic,RN,461,1115,115,25,25,9.8,11.3,1.44
+2026-03,North,Cardiology Clinic,Tech,266,1052,91,146,80,8.8,10.6,1.49
+2026-03,North,Cardiology Clinic,Clerical,358,1326,120,80,111,11.0,12.6,1.1
+2026-03,North,Orthopedics Clinic,RN,705,1550,60,53,28,16.3,15.2,1.31
+2026-03,North,Orthopedics Clinic,Tech,525,1070,100,138,85,9.5,9.0,1.38
+2026-03,North,Orthopedics Clinic,Clerical,786,937,172,68,38,16.7,15.8,1.04
+2026-03,South,Emergency Dept,RN,971,884,158,29,56,17.0,15.8,1.44
+2026-03,South,Emergency Dept,Tech,714,1282,177,74,54,15.6,14.4,1.07
+2026-03,South,Emergency Dept,Clerical,1088,1203,85,81,93,12.6,11.8,1.44
+2026-03,South,Med Surg,RN,768,1645,138,10,118,16.7,15.4,0.94
+2026-03,South,Med Surg,Tech,2020,1436,122,178,61,15.4,15.7,1.2
+2026-03,South,Med Surg,Clerical,1999,1766,176,54,76,15.4,14.5,1.26
+2026-03,South,ICU,RN,1181,1602,180,75,100,14.6,15.6,1.06
+2026-03,South,ICU,Tech,1814,1153,167,76,4,8.4,10.3,0.93
+2026-03,South,ICU,Clerical,1618,1068,123,48,77,6.2,6.4,1.16
+2026-03,South,Cardiology Clinic,RN,702,1238,47,28,14,16.9,17.4,1.23
+2026-03,South,Cardiology Clinic,Tech,493,999,53,89,54,6.5,6.1,1.27
+2026-03,South,Cardiology Clinic,Clerical,788,1242,167,32,83,15.8,14.9,1.05
+2026-03,South,Orthopedics Clinic,RN,413,1717,156,25,40,10.9,10.7,1.03
+2026-03,South,Orthopedics Clinic,Tech,293,962,165,163,17,7.7,7.8,1.35
+2026-03,South,Orthopedics Clinic,Clerical,290,706,101,114,113,12.3,11.1,1.23
+2026-03,University,Emergency Dept,RN,1800,1800,140,220,80,14.0,16.5,1.3
+2026-03,Community,Cardiology Clinic,RN,300,1100,90,130,20,10.0,10.5,1.25
+2026-03,North,Med Surg,Tech,1500,0,75,70,10,9.0,9.2,1.1

@@ -1,0 +1,20 @@
+# data
+
+raw_department_productivity.csv
+month
+hospital
+department
+role_group
+encounters
+productive_hours
+nonproductive_hours
+overtime_hours
+agency_hours
+budgeted_fte
+worked_fte
+productivity_target
+
+department_reference.csv
+department
+service_line
+benchmark_group
