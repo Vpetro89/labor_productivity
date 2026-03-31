@@ -1,28 +1,25 @@
-Labor Productivity Workflow
+## Labor Productivity Workflow
 
-Department workload + hours
+### Description
+This project focuses on department-level labor productivity reporting using workload and staffing hours. It is built to show whether staffing levels match actual volume and to help explain when overtime or agency labor is being used to cover gaps.
 
-Data
+### Data
+- Encounters
+- Productive hours
+- Overtime
+- Agency labor
 
-encounters
-productive hours
-overtime
-agency
+### Calculations
+- `productivity = workload / productive hours`
+- Target versus actual productivity
+- Productivity variance
 
-Calc
+### Run Order
+- `01_stage_productivity.sql`
+- `02_validate_productivity.sql`
+- `03_reporting_tables.sql`
 
-productivity = workload / productive hours
-target vs actual
-variance
-
-Run
-
-01_stage_productivity.sql
-02_validate_productivity.sql
-03_reporting_tables.sql
-
-Use
-
-see where staffing doesn’t match volume
-check if overtime / agency is covering gaps
-figure out if it’s volume, staffing, or mix
+### Use
+- Identify where staffing does not match volume
+- Check whether overtime or agency labor is covering gaps
+- Determine whether the issue is volume, staffing, or labor mix
